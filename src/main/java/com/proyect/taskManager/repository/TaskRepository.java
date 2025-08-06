@@ -8,6 +8,6 @@ import org.springframework.stereotype.Repository;
 
 @Repository
 public interface TaskRepository extends JpaRepository<Task, Long> {
- //Comentario prueba repositorio git
+ //Estamos en una nueva rama haciendo cambios
 }
 
